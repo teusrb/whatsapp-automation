@@ -3,8 +3,8 @@ import requests
 import json
 
  
-account_sid = 'ACcdfced11262290327b9aa6a83f72bfa2' 
-auth_token = '912957d344b52a9eb3d5f5355b956703' 
+account_sid = '[Account_Sid]' 
+auth_token = '[Auth_Token]' 
 client = Client(account_sid, auth_token) 
 
 requisicao = requests.get('https://economia.awesomeapi.com.br/all/USD-BRL')
