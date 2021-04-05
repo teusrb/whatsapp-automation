@@ -11,3 +11,6 @@
 
 ## Linguagem de programação utilizada
 + ### Python 🐍
+
+## Algumas sacadas
++ ### Time: Módulo time para retornar data e horário de cada consulta ⌚
