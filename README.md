@@ -14,3 +14,6 @@
 
 ## Algumas sacadas
 + ### Time: Módulo time para retornar data e horário de cada consulta ⌚
+
+## Observações
++ ### Algumas informações estão ocultas no código por questão de privacidade e segurança, como por exemplo:Auth token, account sid, número de remetente e número do destinatário
