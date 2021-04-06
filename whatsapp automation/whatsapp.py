@@ -19,9 +19,9 @@ hora = time.strftime('%d/%m/%y %H:%M', time.localtime())
 
 def send_message(): 
     message = client.messages.create( 
-                              from_='whatsapp:+14155238886',  
+                              from_='whatsapp:+1415NNNNNNN',  
                               body='A cotação atual do dólar é de R$ {:.2f} \nA cotação atual do Euro é de R$ {:.2f} \nA data e horário dessa consulta foram: {}'.format(valor_dolar, valor_euro, hora),      
-                              to='whatsapp:+5511980283113' 
+                              to='whatsapp:+55119NNNNNNNN' 
                           ) 
  
     print(message.sid)
